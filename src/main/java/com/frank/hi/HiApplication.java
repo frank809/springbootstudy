@@ -1,12 +1,13 @@
-package com.manning.readinglist;
+package com.frank.hi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ReadingListApplication {
+public class HiApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ReadingListApplication.class, args);
+		SpringApplication.run(HiApplication.class, args);
 	}
+
 }
