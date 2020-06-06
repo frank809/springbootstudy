@@ -10,4 +10,9 @@ class TacoCloudApplicationTests {
 	void contextLoads() {
 	}
 
+	@Test
+	void testStart(){
+		System.out.println("This is one dummy test");
+	}
+
 }
