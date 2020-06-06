@@ -1,10 +1,10 @@
-package com.frank.hi;
+package sia.tacocloud;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class HiApplicationTests {
+class TacoCloudApplicationTests {
 
 	@Test
 	void contextLoads() {
